@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-My name is Kiane Lucia Casagrande from Brazil (🇧🇷). I've been working as Front-End Developer since 2016 and currently I'm looking for a new job, preferably Front-End Developer/UI/UX/Vue Engineer/Developer roles where they actually test front end skills rather. I'm an extremely communicative person, love what I do and always try to help the people around me.
+My name is Kiane Lucia Casagrande from Brazil (🇧🇷). I've been working as Front-End Developer since 2016 and currently I'm looking for a new job, preferably Front-End Developer/UI/UX/Vue Engineer/Developer roles where they actually test front end skills. I'm an extremely communicative person, love what I do and always try to help the people around me.
 
-In my free time I like to run (and walk) (:running:), to ride a bike (:bicyclist:), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵), to travel (:airplane:), I love playing with my dogs (:dog:) and eventually I like to philosophize about life with good coffee (:coffee:).
+In my free time I like to run (and walk) (:running:), to ride a bike (:bicyclist:), to watch movies (🎞️) and series (📺), to read books (📚), to travel (:airplane:), I love playing with my dogs (:dog:) and eventually I like to philosophize about life with good coffee (:coffee:).
 
 Would you like to find me?
 
