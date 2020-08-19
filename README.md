@@ -10,11 +10,7 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiane-l-casagrande-169876b6/)](https://www.linkedin.com/in/kiane-l-casagrande-169876b6/)
 
 
-Follow my immersion project in React (#ImersaoReact): 
+Follow my immersion project: 
 
-[![](https://img.shields.io/badge/KIANEFLIX-%23d27077?style=for-the-badge)](https://kianeflix.vercel.app/)
+[![](https://img.shields.io/badge/-REACT%20PROJECT-%23d27077?style=for-the-badge)](https://kianeflix.vercel.app/)
 [![](https://img.shields.io/badge/-ANGULAR%20PROJECT-%2370D290?style=for-the-badge)](https://github.com/Kianelc/curso-frames-web)
-
-<p align="center" style="font-weight:bold">
-:star2: <b>if you know of any work as a Front-End Developer let me know!</b> :star2:
-</p>
