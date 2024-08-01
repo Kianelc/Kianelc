@@ -7,7 +7,7 @@
 <img align="right" alt="Tech GIF" src="./gif_tech.gif"  width="300px"/>
 
 ### My name is Kiane
-(Vue JS | Angular | Javascript | HTML | CSS | PHP ) 🚀
+(Vue JS | Angular | Javascript | HTML | CSS | PHP | Node.js ) 🚀
 
 <br/>
 
@@ -15,7 +15,8 @@
 - 🎓 Systems Analysis and Development
 - 🎓 Data Engineering Student (MBA)
 - 🧠 Exploring **TypeScript** and **Serverless** to expand my knowledge
-- 💡 Love a good challenge
+- 🧠 Diving into **Next.js** and **React** for frontend development
+- 💡 Always up for a good challenge!
 
 <br/>
 
